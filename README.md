@@ -12,3 +12,5 @@ The distance calculation and nearest neighbor search are performed for each test
 
 **Benchmarking:** 
 The code measures the time taken for the parallel KNN prediction and compares it with the non-parallel version.
+
+**Note: I used "fetch_openml" method to load MINST dataset, so there is no need to download the dataset and set the path manually for the code to work.**
